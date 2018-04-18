@@ -14,7 +14,7 @@ color: #00cc00;
 p strong {
 color: #0000cc;
 }
-a:link { color: #000000; text-decoration: underline; }
+a:link { color: yellow; text-decoration: underline; }
 a:visited {color: #cc0000; text-decoration: none; }
 a:hover { color: orange; text-decoration: underline; }
 a:active { color: red; text-decoration: overline; }
